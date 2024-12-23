@@ -1,0 +1,73 @@
+.Home {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.Home-con {
+  width: 1325px;
+  height: 575px;
+  background-color: gray;
+  border-radius: 10px;
+}
+
+.Headerinnercon {
+  display: flex;
+  flex-direction: row;
+}
+
+.Headerinnercon2 {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Headericon {
+  width: 50px;
+  height: 50px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.Heading {
+  max-width: 100px;
+  font-family: SfBold;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.Subheading {
+  font-family: SfRegular;
+  font-size: 18px;
+  margin-left: 20px;
+  margin-top: -10px;
+}
+
+.Weathercon {
+  width: 400px;
+  height: 250px;
+  margin-left: 20px;
+  border-radius: 10px;
+  background-color: #4DA1A9;
+}
+
+.Weatherheading {
+  font-family: SfBold;
+  font-size: 18px;
+  padding: 20px;
+  padding-top: 10px;
+}
+
+.Weathercon {
+  font-family: 'SfBold';
+}
+
+.Description {
+  font-size: 25px;
+  padding-left: 20px;
+}
+
+.Locationname {
+  font-size: 25px;
+  padding-left: 20px;
+}
